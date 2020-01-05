@@ -55,3 +55,8 @@
 
 def my_hash
   my_hash = {
+    "name" => "Catherine",
+    "age" => "30",
+    "hair" => "brown"
+  }
+end
