@@ -1,38 +1,38 @@
-def my_hash
-  your_hash = {
-    "name" => "Catherine",
-    "age" => 30,
-    "hair color" => "brown"
-  }
-end
+# def my_hash
+#   your_hash = {
+#     "name" => "Catherine",
+#     "age" => 30,
+#     "hair color" => "brown"
+#   }
+# end
 
 
-def shipping_manifest
-  the_manifest = {
-    "whale bone corsets" => 5,
-    "porcelain vases" => 2,
-    "oil paintings" => 3
-  }
-end
+# def shipping_manifest
+#   the_manifest = {
+#     "whale bone corsets" => 5,
+#     "porcelain vases" => 2,
+#     "oil paintings" => 3
+#   }
+# end
 
-def retrieval
-  shipping_manifest = {
-                  "whale bone corsets" => 5, 
-                  "porcelain vases" => 2, 
-                  "oil paintings" => 3
-                 }
+# def retrieval
+#   shipping_manifest = {
+#                   "whale bone corsets" => 5, 
+#                   "porcelain vases" => 2, 
+#                   "oil paintings" => 3
+#                 }
 
-shipping_manifest["oil paintings"]
-end
+# shipping_manifest["oil paintings"]
+# end
 
-def adding
-  shipping_manifest = {
-                  "whale bone corsets" => 5, 
-                  "porcelain vases" => 2, 
-                  "oil paintings" => 3
-                 }
-shipping_manifest["muskets"] = 2 
-shipping_manifest["gun powder"] = 4
+# def adding
+#   shipping_manifest = {
+#                   "whale bone corsets" => 5, 
+#                   "porcelain vases" => 2, 
+#                   "oil paintings" => 3
+#                 }
+# shipping_manifest["muskets"] = 2 
+# shipping_manifest["gun powder"] = 4
 
-shipping_manifest
-end
+# shipping_manifest
+# end
